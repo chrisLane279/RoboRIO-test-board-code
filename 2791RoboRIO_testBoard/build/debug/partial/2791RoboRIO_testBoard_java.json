@@ -1,0 +1,11 @@
+[
+  {
+    "name": "2791RoboRIO_testBoard (in project 2791RoboRIO_testBoard)",
+    "file": "C:\\Users\\cglan\\Desktop\\FRC\\Shaker Robotics 2020 Season\\roborio testboard project\\2791RoboRIO_testBoard\\build\\libs\\2791RoboRIO_testBoard.jar",
+    "extensions": [
+      "C:\\Users\\cglan\\Desktop\\FRC\\Shaker Robotics 2020 Season\\roborio testboard project\\2791RoboRIO_testBoard\\build\\tmp\\expandedArchives\\halsim_gui-2020.1.2-windowsx86-64.zip_0ded91afab576f356c80ba4c4e7b8310\\windows\\x86-64\\shared\\halsim_gui.dll"
+    ],
+    "librarydir": "C:\\Users\\cglan\\Desktop\\FRC\\Shaker Robotics 2020 Season\\roborio testboard project\\2791RoboRIO_testBoard\\build\\tmp\\jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  }
+]
